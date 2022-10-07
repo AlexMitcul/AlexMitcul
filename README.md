@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexMitcul
-- 👀 I’m interested in iOS dev. 
-- 🌱 I’m currently learning Swift and iOS apps creating
+- 👀 I’m interested in C/C++ development. 
+- 🌱 I’m currently passing 42 Porto piscine XD
 - 📫 My telegram @alexMitcul
 
 <!---
