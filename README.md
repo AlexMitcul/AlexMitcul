@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexMitcul
 - 👀 I’m interested in C/C++ development. 
-- 🌱 I’m currently passing 42 Porto piscine XD
+- 🌱 I’m student 42 Porto.
 - 📫 My telegram @alexMitcul
 
 <!---
